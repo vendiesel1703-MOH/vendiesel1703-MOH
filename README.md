@@ -83,10 +83,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendiesel1703-MOH&layout=compact&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vendiesel1703-MOH&theme=tokyonight&no-frame=true&row=1)
----
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vendiesel1703-MOH&theme=tokyonight)
