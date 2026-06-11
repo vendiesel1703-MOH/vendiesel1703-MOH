@@ -106,11 +106,6 @@ Python-based utilities and automation solutions
 
 ---
 
-## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mohitnagdeep/
-- Email: mohit.nagdeep1703@gmail.com
-
----
 
 ⭐ Always eager to learn, collaborate, and build impactful AI & Data Science solutions.
