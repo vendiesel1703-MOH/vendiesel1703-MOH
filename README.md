@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mohit Nagdeep
-
+![](https://komarev.com/ghpvc/?username=vendiesel1703-MOH&color=blue&style=for-the-badge)
 🎓 Computer Science Engineering Student (AI & Data Science)
 
 💻 Python Developer
