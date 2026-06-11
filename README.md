@@ -92,19 +92,17 @@
 
 ## 🚀 Featured Projects
 
-### PresenZio
-Attendance Management System
+### 📌 PresenZio
+Attendance Management System using web technologies for attendance tracking.
 
-### Data Analytics Dashboard
-Interactive dashboards and business insights
+### 📌 Data Analytics Dashboard
+Business intelligence dashboards using Power BI and data visualization.
 
-### Machine Learning Projects
-Prediction and classification models
+### 📌 Machine Learning Projects
+Prediction, classification, and NLP-based projects.
 
-### Python Automation Projects
-Python-based utilities and automation solutions
-
----
+### 📌 Python Automation
+Automation scripts and productivity tools.
 
 
 
