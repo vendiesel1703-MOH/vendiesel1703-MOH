@@ -1,14 +1,14 @@
 # Hi 👋, I'm Mohit Nagdeep
 ![](https://komarev.com/ghpvc/?username=vendiesel1703-MOH&color=blue&style=for-the-badge)
 
+### AI & Data Science Student | Python Developer | ML Enthusiast
+
+🚀 Passionate about building data-driven solutions and AI-powered applications.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;)](https://git.io/typing-svg)
 
 
-🎓 Computer Science Engineering Student specializing in AI & Data Science
-💻 Python Developer
-🤖 AI & Machine Learning Enthusiast
-📊 Data Analytics Practitioner
-🚀 Passionate about solving real-world problems with data and intelligent systems
+
 
 ---
 
