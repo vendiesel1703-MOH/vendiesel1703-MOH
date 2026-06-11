@@ -1,5 +1,6 @@
 # Hi 👋, I'm Mohit Nagdeep
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=vendiesel1703-MOH&color=blue&style=for-the-badge)
 
 🎓 Computer Science Engineering Student (AI & Data Science)
