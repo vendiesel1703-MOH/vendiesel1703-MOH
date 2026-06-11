@@ -22,8 +22,9 @@
 - 🔭 Currently working on Data Science and AI projects
 - 🌱 Learning Machine Learning, Deep Learning, NLP, and Data Analytics
 - 💡 Interested in Artificial Intelligence, Data Science, Python Development, and Analytics
+- 📚 Actively exploring Machine Learning, NLP, and Data Engineering
 - 🎯 Goal: Build impactful AI solutions and contribute to innovative projects
-- 📚 Preparing for GRE and TOEFL for future MS studies
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)
