@@ -19,7 +19,11 @@
 - 💡 Interested in Artificial Intelligence, Data Science, Python Development, and Analytics
 - 🎯 Goal: Build impactful AI solutions and contribute to innovative projects
 - 📚 Preparing for GRE and TOEFL for future MS studies
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mohit.nagdeep1703@gmail.com)
 ---
 
 ## 💻 Tech Stack
