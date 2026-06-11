@@ -25,13 +25,11 @@
 - 📚 Actively exploring Machine Learning, NLP, and Data Engineering
 - 🎯 Goal: Build impactful AI solutions and contribute to innovative projects
 
-## 🌐 Connect With Me
+
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.nagdeep1703@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.nagdeep1703@gmail.com)
 
 
 ## 💻 Tech Stack
