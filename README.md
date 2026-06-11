@@ -5,15 +5,13 @@
 
 
 
-🎓 Computer Science Engineering Student (AI & Data Science)
+🎓 Computer Science Engineering Student specializing in AI & Data Science
 
 💻 Python Developer
+🤖 AI & Machine Learning Enthusiast
+📊 Data Analytics Practitioner
 
-📊 Data Science & Analytics Enthusiast
-
-🤖 Machine Learning & AI Learner
-
-🚀 Passionate about building data-driven solutions and AI-powered applications
+🚀 Passionate about solving real-world problems with data and intelligent systems
 
 ---
 
