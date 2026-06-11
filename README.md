@@ -27,10 +27,12 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit_Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)
+## 🌐 Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mohit.nagdeep1703@gmail.com)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Nagdeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitnagdeep/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit.nagdeep1703@gmail.com)
+
 
 ## 💻 Tech Stack
 
