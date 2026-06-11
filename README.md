@@ -75,11 +75,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vendiesel1703-MOH&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vendiesel1703-MOH&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vendiesel1703-MOH&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendiesel1703-MOH&layout=compact&theme=tokyonight" />
+</p>
 ---
 ## 🏆 GitHub Trophies
 
