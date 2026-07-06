@@ -72,13 +72,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vendiesel1703-MOH&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vendiesel1703-MOH&layout=compact&theme=tokyonight" />
-</p>
-
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vendiesel1703-MOH&theme=tokyonight)
